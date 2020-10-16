@@ -1,4 +1,4 @@
-module github.com/wealdtech/go-eth2-util
+module github.com/rocket-pool/go-eth2-util
 
 go 1.12
 
