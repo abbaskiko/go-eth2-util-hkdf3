@@ -1,4 +1,4 @@
-module github.com/rocket-pool/go-eth2-util
+module github.com/rocket-pool/go-eth2-util-hkdf3
 
 go 1.12
 
